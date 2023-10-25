@@ -1,5 +1,5 @@
 print("""
-    Descubra o decimo termo e o fatorial de um termo:
+    Descubra o decimo termo utilizando uma razão e o fatorial de um termo:
     by: Gerson Alves  
 """)
 
